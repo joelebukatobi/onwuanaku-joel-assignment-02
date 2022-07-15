@@ -41,7 +41,7 @@ function countEvenNumbers(arrayOfNumbers) {
     }
     return count;
 }
-assignment.countEvenNumbers = countEvenNumbers;
+// assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
